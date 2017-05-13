@@ -1,4 +1,4 @@
-module OneSolveMeFirst
+module Exercises.OneSolveMeFirst
     ( run
     ) where
 
